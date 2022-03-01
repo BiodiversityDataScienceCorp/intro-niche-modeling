@@ -17,10 +17,11 @@ In the interest of time, we're going to rely pretty heavily upon code created by
 
 ## Instructions
 
+1. Go to RNR 496B/DSCI 245 workspace on rstudio.cloud, and start the assignment "intro-niche-modeling".
 
-1. Open `src/sample.R` and follow the steps to create a species distribution model for *Phidippus johnsoni*. We'll do this together as a class.
+2. Open `src/sample.R` and follow the steps to create a species distribution model for *Phidippus johnsoni*. We'll do this together as a class.
 
-2. When finished, open `src/yourTurn.R`, and follow the same process to generate a species distribution model for your milkweed species.
+3. When finished, open `src/yourTurn.R`, and follow the same process to generate a species distribution model for your milkweed species.
 
 
 ## Using this in your group's repository
