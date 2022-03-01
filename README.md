@@ -27,6 +27,11 @@ In the interest of time, we're going to rely pretty heavily upon code created by
 
 With some care, you should be able to use this code in your group's repository. Here are the general steps:
 
-1. Your group's lead programmer 
+1. Your group's lead programmer could make copies of `setup.R`, `sdm-functions.R`, and `run-sdm-single.R`, and put them in your main repository's `src` directory.
+
+2. In your `main.R` file, retrace the steps made in `yourTurn.R`. You may need to make sure all paths are correct, and keep an eye on the console for any errors when running the code.
+
+3. If you run into problems, post a question on Slack, or come to office hours!
+
 
 
