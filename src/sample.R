@@ -21,7 +21,8 @@ source(file = "src/setup.R")
 
 # Phidippus johnsoni (spiders)
 # https://www.gbif.org/species/5173184
-johnsoni<-occ(query='Phidippus johnsoni', from="gbif")
+# limiting to 2020 just to keep the volume down
+johnsoni<-occ(query='Phidippus johnsoni', from="gbif", gbifopts = list(year="2020"))
 
 #navigate object
 johnsoniData<-johnsoni$gbif$data$Phidippus_johnsoni
